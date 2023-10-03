@@ -7,7 +7,7 @@ public class Main {
         String relax = scanner.nextLine();
         if (relax.equals("relax")) {
             return "true";
-        } else return "false, lose";
+        } else return "false, you lose";
     }
 
         }
